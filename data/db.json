@@ -1,0 +1,58 @@
+{
+    "products": [
+        {
+          "id": 1,
+          "name": "one plus nord 2",
+          "price": 40000.78,
+          "discount": 0.1,
+          "category": "phone",
+          "image": "assets/oneplus.jpg" ,
+          "code": "M-001",
+          "publishedDate": "Wed Sep 11 2023 11:25:01 GMT+0530 (India Standard Time)"
+        },
+        {
+          "id": 2,
+          "name": "iphone 15",
+          "price": 80000,
+          "discount": 0.2,
+          "category": "phone",
+          "image": "assets/iphone.jpg",
+          "code": "M-002",
+          "publishedDate": "Wed Oct 11 2023 11:25:01 GMT+0530 (India Standard Time)",
+          "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Impedit aliquam eos voluptates veritatis ullam! Velit voluptate ullam dolorum nostrum recusandae inventore hic adipisci vero, cumque, aperiam quod, veritatis sit delectus?"
+        },
+        {
+          "id": 3,
+          "name": "lgtv",
+          "price": 28000,
+          "discount": 0.05,
+          "category": "television",
+          "image": "assets/lgtv.jpeg",
+          "code":"T-001",
+          "publishedDate": "Wed Oct 11 2023 11:25:01 GMT+0530 (India Standard Time)",
+          "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Impedit aliquam eos voluptates veritatis ullam! Velit voluptate ullam dolorum nostrum recusandae inventore hic adipisci vero, cumque, aperiam quod, veritatis sit delectus?"
+        },
+        {
+          "id": 4,
+          "name": "samsung washing machine",
+          "price": 30000.56,
+          "discount": 0,
+          "category": "washing machine",
+          "image": "assets/washingmachine.jpeg",
+          "code": "W-001",
+          "publishedDate": "Wed Oct 11 2023 11:25:01 GMT+0530 (India Standard Time)",
+          "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Impedit aliquam eos voluptates veritatis ullam! Velit voluptate ullam dolorum nostrum recusandae inventore hic adipisci vero, cumque, aperiam quod, veritatis sit delectus?"
+        },
+        {
+          "id": 5,
+          "name": "apple watch",
+          "price": 60000.7487584,
+          "discount": 0.5,
+          "category": "watch",
+          "image": "assets/applewatch.jpeg",
+          "code": "W-002",
+          "publishedDate": "Wed Oct 11 2023 11:25:01 GMT+0530 (India Standard Time)",
+          "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Impedit aliquam eos voluptates veritatis ullam! Velit voluptate ullam dolorum nostrum recusandae inventore hic adipisci vero, cumque, aperiam quod, veritatis sit delectus?"
+        }
+      ]
+}
